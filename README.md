@@ -14,9 +14,9 @@
 
 - 💬 Ask me about **Data**
 
-- 📫 How to reach me **jainpushp0098@gmail.com**
+- 📫 How to reach me **jain09pushp@gmail.com**
 
-- 📄 Know about my experiences [Link](https://www.canva.com/design/DAFZbOYlWD4/oAVnwMMj-GIX7dQbdVxHjA/view?utm_content=DAFZbOYlWD4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- 📄 Know about my experiences [Link](https://drive.google.com/file/d/1UlhtPNODhhpVQjDrgLP-unHGIeOISj0U/view?usp=share_link)
 
 - ⚡ Fun fact **I am Funny**
 
