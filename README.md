@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **jain09pushp@gmail.com**
 
-- 📄 Know about my experiences [Link]([https://drive.google.com/file/d/174XVNxmJJ75Wgz2Db5oJ1R_SCa8UYrmO/view?usp=share_link](https://docs.google.com/document/d/1vtIzXgx4SE2-F3k7AXJOG180kXzf0jCu/edit?usp=sharing&ouid=103979137995632525042&rtpof=true&sd=true))
+- 📄 Know about my experiences [Link](https://docs.google.com/document/d/1vtIzXgx4SE2-F3k7AXJOG180kXzf0jCu/edit)
 
 - ⚡ Fun fact **I am Funny**
 
