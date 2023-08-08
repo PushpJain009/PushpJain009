@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Full Stack Developer**
 
-- 👯 I’m looking to collaborate on **Full Stack Developer**, **Front-End Developer**, **Back-End Developer**
+- 👯 I’m looking to collaborate on **Web Developer**
 
 - 👨‍💻 All of my projects are available at [Tableau](Tableau), [GitHub](GitHub)
 
