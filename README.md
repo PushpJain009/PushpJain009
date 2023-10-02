@@ -8,13 +8,13 @@
 
 - 🌱 I’m currently learning **Node.js**
 
-- 👨‍💻 All of my projects are available at [GITHUB LINK](https://github.com/PushpJain009?tab=repositories), [TABLEAU LINK](https://public.tableau.com/app/profile/pushp.jain/vizzes)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/PushpJain009?tab=repositories), [Tableau](https://public.tableau.com/app/profile/pushp.jain/vizzes)
 
 - 💬 Ask me about **React, JavaScript**
 
 - 📫 How to reach me **jain09pushp@gmail.com**
 
-- 📄 Know about my experiences [Link](https://docs.google.com/document/d/1x594spnv5xdXVQ6lo39nJObwXcGlNWy3CiP_EhGZq2M/edit?usp=sharing)
+- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1x594spnv5xdXVQ6lo39nJObwXcGlNWy3CiP_EhGZq2M/edit?usp=sharing)
 
 - ⚡ Fun fact **I am Funny**
 
