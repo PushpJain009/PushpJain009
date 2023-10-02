@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pushp Jain</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn-images-1.medium.com/fit/t/1600/480/0*7Q3yvSIv_t0ioJ-Z.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pushpjain009&label=Profile%20views&color=0e75b6&style=flat" alt="pushpjain009" /> </p>
 
@@ -13,7 +14,7 @@
 
 - 📫 How to reach me **jain09pushp@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1x594spnv5xdXVQ6lo39nJObwXcGlNWy3CiP_EhGZq2M/edit?usp=sharing](https://docs.google.com/document/d/1x594spnv5xdXVQ6lo39nJObwXcGlNWy3CiP_EhGZq2M/edit?usp=sharing)
+- 📄 Know about my experiences [Link](https://docs.google.com/document/d/1x594spnv5xdXVQ6lo39nJObwXcGlNWy3CiP_EhGZq2M/edit?usp=sharing)
 
 - ⚡ Fun fact **I am Funny**
 
