@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Node.js**
 
-- 👨‍💻 All of my projects are available at [https://github.com/PushpJain009?tab=repositories](https://github.com/PushpJain009?tab=repositories)
+- 👨‍💻 All of my projects are available at [GITHUB LINK](https://github.com/PushpJain009?tab=repositories), [TABLEAU LINK](https://public.tableau.com/app/profile/pushp.jain/vizzes)
 
 - 💬 Ask me about **React, JavaScript**
 
