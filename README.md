@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Pushp Jain</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
-<img align="right" alt="Coding" width="600" src="https://cdn-images-1.medium.com/fit/t/1600/480/0*7Q3yvSIv_t0ioJ-Z.gif">
+<img align="right" alt="Coding" width="400" src="https://cdn-images-1.medium.com/fit/t/1600/480/0*7Q3yvSIv_t0ioJ-Z.gif">
 
-<p align="left"><img src="https://komarev.com/ghpvc/?username=pushpjain009&label=Profile%20views&color=0e75b6&style=flat" alt="pushpjain009"/> </p>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=pushpjain009&label=Profile%20views&color=0e75b6&style=flat" alt="pushpjain009" width="100"/> </p>
 
 - 🔭 I’m currently working on [Ecommerce Template](https://github.com/PushpJain009/mern_ecommerce)
 
