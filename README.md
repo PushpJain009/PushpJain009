@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [Ecommerce Template](https://github.com/PushpJain009/mern_ecommerce)
 
-- 🌱 I’m currently learning **Node.js**
+- 🌱 I’m currently learning **Node.js** and **Figma**
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/PushpJain009?tab=repositories), [Tableau](https://public.tableau.com/app/profile/pushp.jain/vizzes)
 
