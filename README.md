@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pushpjain009&label=Profile%20views&color=0e75b6&style=flat" alt="pushpjain009" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pushpjain009" alt="pushpjain009" /></a> </p>
-
 - 🔭 I’m currently working on **React Native Project**
 
 - 🌱 I’m currently learning **Docker**
@@ -21,6 +19,9 @@
 - 📄 Know about my experiences [https://docs.google.com/document/d/1CG83inwI3NKm1xiZGU6NKRs1UgT7bUuK/edit?pli=1](https://docs.google.com/document/d/1CG83inwI3NKm1xiZGU6NKRs1UgT7bUuK/edit?pli=1)
 
 - ⚡ Fun fact **Funny and Creative**
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pushpjain009" alt="pushpjain009" /></a> </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
